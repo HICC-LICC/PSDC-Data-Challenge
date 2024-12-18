@@ -3,7 +3,13 @@
 # README for Data Challenge Notebook
 
 ## Overview
-This Jupyter Notebook is designed to address a data challenge through a combination of data cleaning, preprocessing, and analysis. It contains Python scripts that utilize various libraries to manipulate and analyze datasets effectively. The notebook is structured into sections, each focused on a specific aspect of the data pipeline, including loading data, cleaning, transformation, and visualization.
+Currently, shelters lack a centralized system for real-time bed availability tracking, leading to resource allocation challenges. This project aims to implement data analytics and predictive forecasting to enhance inventory management, usage analysis, and decision-making.  
+
+By integrating these capabilities, shelters can optimize resource distribution, strengthening the support network for vulnerable populations. Housing Infrastructure and Communities Canada (HICC) aims to lead in Artificial Intelligence (AI) innovation, leveraging public shelter, census, and weather to build a predictive model on bed availability, which aligns with HICC’s goal of responsible AI use in social impact areas like housing. 
+
+This initiative develops machine learning models using Alberta and Toronto shelter data, aligned with HICC’s framework for responsible Artificial Intelligence (AI). Models such as Random Forest, XGB Regressor, and Nearest Neighbor Analysis, used to build the model, are designed to respect ethical guidelines, supporting transparent and accountable AI deployment.
+
+Predictive AI models forecast shelter space needs using interpretable models like Random Forest and XGB Regressor, adhering to HICC’s principles of transparency, accountability, and explainability. These models are scoped to improve operational efficiency and ensure consistent, accurate outcomes within the ethical boundaries of the framework.
 
 **Important Note:** The dataset and code in this notebook are sourced from a clone of the Data Science Challenge repository hosted on DevOps. Users must update the repository clone to their own DevOps or Git environment for the notebook to function as expected. See the [Data Sources](#data-sources) section for more details.
 
