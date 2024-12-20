@@ -11,7 +11,7 @@ This initiative develops machine learning models using Alberta and Toronto shelt
 
 Predictive AI models forecast shelter space needs using interpretable models like Random Forest and XGB Regressor, adhering to HICC’s principles of transparency, accountability, and explainability. These models are scoped to improve operational efficiency and ensure consistent, accurate outcomes within the ethical boundaries of the framework.
 
-**Important Note:** The dataset and code in this notebook are sourced from a clone of the Data Science Challenge repository hosted on DevOps. Users must update the repository clone to their own DevOps or Git environment for the notebook to function as expected. See the [Data Sources](#data-sources) section for more details.
+**Important Note:** The dataset and code in this notebook are sourced from a clone of the Data Science Challenge repository hosted on DevOps. this work was conducted for the 2023-2024 Public Service Data Challenge: https://canada.governmentdatachallenge.com/. Users must update the repository clone to their own DevOps or Git environment for the notebook to function as expected. See the [Data Sources](#data-sources) section for more details.
 
 ## Table of Contents
 1. [Requirements](#requirements)
