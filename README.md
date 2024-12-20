@@ -1,4 +1,4 @@
-# PSDC-Data-Challenge
+# Public Service Data Challenge HICC project
 
 # README for Data Challenge Notebook
 
